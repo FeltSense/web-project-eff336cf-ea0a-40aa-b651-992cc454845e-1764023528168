@@ -1,0 +1,1 @@
+// Failed to generate tailwind.config.js
